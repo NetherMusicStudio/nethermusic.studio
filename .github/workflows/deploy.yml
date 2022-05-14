@@ -23,9 +23,8 @@ jobs:
 
       - name: Hugo setup
         run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v0.88.1/hugo_extended_0.88.1_Linux-64bit.tar.gz -O hugo.tar.gz
+          wget https://github.com/gohugoio/hugo/releases/download/v0.98.0/hugo_extended_0.98.0_Linux-64bit.tar.gz -O hugo.tar.gz
           tar -xvzf hugo.tar.gz
-  
       - name: Build site
         run: |
           git submodule update --init --recursive
