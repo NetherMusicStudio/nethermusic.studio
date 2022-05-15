@@ -6,4 +6,4 @@ tags: ["stub"]
 title: "This is a stub"
 ---
 
-stub
+STUB
