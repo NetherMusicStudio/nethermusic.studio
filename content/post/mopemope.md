@@ -1,7 +1,6 @@
 ---
 date: 2022-05-03T15:23:08+08:00
 description: "由Titan685扒谱，Jonathan685编曲"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["Jonathan685", "Titan685"]
 title: "MopeMope重制版"
 ---
