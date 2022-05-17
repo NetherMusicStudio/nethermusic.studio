@@ -1,6 +1,7 @@
+image: klakegg/hugo:ext-ubuntu
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
-  - init: brew install hugo # runs during prebuild
+  - init: hugo # runs during prebuild
     command: hugo server
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
