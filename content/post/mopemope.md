@@ -2,7 +2,7 @@
 date: 2022-05-03T15:23:08+08:00
 description: "由Titan685扒谱，Jonathan685编曲"
 tags: ["Jonathan685", "Titan685"]
-title: "MopeMope重制版"
+title: "MopeMope (NMS Remix)"
 ---
 
 [Bilibili](https://www.bilibili.com/video/BV1RS4y187Bn?share_source=copy_web)
