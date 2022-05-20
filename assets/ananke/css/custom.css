@@ -1,0 +1,36 @@
+.intro-card {
+    display: flex;
+    border: 1.25px solid;
+    box-shadow: 5px 5px 10px -1px #666;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.intro-card img {
+    border: 0.5px solid;
+    border-radius: 50%;
+    box-shadow: 2px #666;
+    margin: 10px 40px;
+    max-width: 200px;
+    min-width: 80px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.intro-card span {
+    flex: 1 1 100px;
+}
+
+.intro-card h1 {
+    word-wrap: break-word;
+    font-size: xx-large;
+}
+
+.intro-card p {
+    font-size: large;
+}

@@ -5,12 +5,8 @@ tags: ["Jonathan685", "Titan685"]
 title: "MopeMope (NMS Remix)"
 ---
 
-[Bilibili](https://www.bilibili.com/video/BV1RS4y187Bn?share_source=copy_web)
+⊙△⊙？大 家 就 当 无 事 发 生⊙△⊙？
 
-<div style="position: relative; padding: 30% 45%;">
+在[Bilibili](https://www.bilibili.com/video/BV1RS4y187Bn)上观看。
 
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=726212873&;bvid=BV1RS4y187Bn&cid=710846267&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no">
-
-</iframe>
-
-</div>
+{{< bilibili aid="726212873" bvid="BV1RS4y187Bn" cid="710846267" >}}
