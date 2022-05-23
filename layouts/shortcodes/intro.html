@@ -1,6 +1,6 @@
 <div class="intro-card">
     <img src="{{ with .Get "img" }}{{ . | htmlEscape }}{{ else }}{{ errorf "missing value for param img: %s" .Position }}{{ end }}" alt="Avatar" />
     <span>
-        {{ .Inner }}
+        {{ .Inner | markdownify }}
     </span>
 </div>
